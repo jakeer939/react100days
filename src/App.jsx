@@ -1,8 +1,9 @@
-import ContactManager from "./ContactManager";
+
+import Todo from "./Todo";
 function App() {
   return (
     <>
-    <ContactManager />
+    <Todo />
     </>
   )
 }
